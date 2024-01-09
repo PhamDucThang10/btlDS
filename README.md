@@ -4,7 +4,7 @@
 - **crawl:** chứa file **code crawl dữ liệu** của bài toán
 - **model:** chứa file **code training model** và **dataset** của bài toán
 
-<h2>4. Hướng dẫn chạy các file code</h2>
+<h2>Hướng dẫn chạy các file code</h2>
 
 - **Book_1.csv** : File lưu đường link của các cuốn sách trên trang goodread đã thu thập được
 - **X.csv** : File lưu giữ thông tin cụ thể của từng cuốn sách( không có rating)
